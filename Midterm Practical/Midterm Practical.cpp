@@ -127,7 +127,7 @@ int main()
 void exit(bool v)
 {
     system("CLS");
-    cout << "Have A Trash Day LOOOOSER!" << "\n" << "ps. i love you <3" << endl;
+    cout << "Have A Trash Day LOOOSER!" << "\n" << "ps. i love you <3" << endl;
     system("PAUSE");
     v = false;
     _Exit(1);
